@@ -1,0 +1,2 @@
+# Overview
+project focused on Analyzing hotel booking trends of 3 advertisers on websites, I mainly use Power BI to process data, use DAX to calculate necessary metrics and visualize the information .. Compare the general situation of 3 advertisers, number of bookings, conversion rate, and revenue. Next, delve into the analysis of each advertiser, the number of bookings/clicks and revenue by each customer segment, by month... from there, we can propose appropriate strategies for each advertiser to improve in the future. 
